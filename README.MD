@@ -1,10 +1,69 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Mini tarefa: clone Instagram HTML e CSS
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Prática com Flexbox, clone da interface de login do Instagram! 
 
-### Os requisitos são:
+CSS e HTML
+<br>
+<br>
+  <div align="center">
+    <table>
+      </tr>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                Robinson Enedino
+            </td>
+        <td>
+            <a  href="https://www.linkedin.com/in/robinsonbrz/">
+            <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/linkedin.png" width="30" height="30">
+        </td>
+        <td>
+            <a  href="https://www.linkedin.com/in/robinsonbrz/">
+            <img  src="https://avatars.githubusercontent.com/u/18150643?s=96&amp;v=4" alt="@robinsonbrz" width="30" height="30">
+        </td>
+        <td>
+            <a href="mailto:robinsonbrz@gmail.com">
+            <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/gmail.png" width="30" height="30" ></a>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <br><br>
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+Visite meu WebSite desenvolvido em Python | Django  [https://www.enedino.com.br](https://www.enedino.com.br)
 
-## 🚀 Let's code! 🚀
+<br><br>
+        <td>
+            <a  href="https://www.linkedin.com/in/robinsonbrz/">
+            <img  src="./img/InstagramClone.jpg" >
+        </td>
+<br>
+
+## Objetivo:
+
+Prática com CSS e Html
+
+
+<br>
+<br>
+
+
+
+<h1 align="center"> Informações e contato </h1> 
+  <div align="center">
+    <table>
+        </tr>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/linkedin.png" width="50" height="50">
+            </td>
+            <td>
+                <a  href="https://www.linkedin.com/in/robinsonbrz/">
+                <img  src="https://avatars.githubusercontent.com/u/18150643?s=96&amp;v=4" alt="@robinsonbrz" width="30" height="30">
+            </td>
+            <td>
+                <a href="https://www.enedino.com.br/contato">
+                <img src="https://raw.githubusercontent.com/robinsonbrz/robinsonbrz/main/static/img/gmail.png" width="50" height="50">
+            </td>
+        </tr>
+    </table> 
+  </div>
